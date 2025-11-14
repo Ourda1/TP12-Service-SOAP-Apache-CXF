@@ -1,0 +1,5 @@
+# Created at 2025-11-12T00:26:58.467
+Boot Manifest-JAR contains absolute paths in classpath 'D:\EMSI-S9\Architecture\soap-cxf-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
